@@ -1,1 +1,2 @@
 # ML_EDA_Classification_Diabetes
+An EDA and Machine Learning Classification exercise on the Diabetes dataset demonstrating the use of SQLAlchemy data import from an SQL database (PostgreSQL), Pre-processing Pipelines, ANOVA, 9 ScikitLearn ML models,hyperparamter tuning for the best performing one, and feature importance. The .ipynb file contains comments that describe the problem-solving methodology.
